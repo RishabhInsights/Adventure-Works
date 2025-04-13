@@ -43,7 +43,7 @@ This dashboard demonstrates how to:
 
 - [`AdventureWorksReport.pdf`]((https://github.com/RishabhInsights/Adventure-Works/blob/main/Adventure%20Works%20Project/AdventureWorksReport.pdf) – Exported view of the Power BI dashboard  
 - [`AdventureWorksDashboard.pbix`](https://github.com/RishabhInsights/Adventure-Works/blob/main/Adventure%20Works%20Project/AdventureWorksReport.pbix) – Power BI project file  
-- [`DataModel_Screenshot.png`](https://github.com/RishabhInsights/Adventure-Works/blob/main/Adventure%20Works%20Project/AdventureWorksReport.pdf) – Screenshot of the data model  
+- ![`DataModel_Screenshot.png`](https://github.com/RishabhInsights/Adventure-Works/blob/main/Adventure%20Works%20Project/Adventure%20Works%20Data%20Model.png) – Screenshot of the data model  
 
 ---
 
